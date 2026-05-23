@@ -164,7 +164,6 @@ Credentials and learning achievements:
 - **LinkedIn:** [Mudamminul Ashnaque](https://linkedin.com/in/mudamminul-ashnaque)
 - **Email:** ashnaque@example.com
 - **Portfolio:** This Repository
-
 ---
 
 ## 📈 Learning Goals
